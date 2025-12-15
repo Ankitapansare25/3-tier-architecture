@@ -2,8 +2,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates how to provision a **3-Tier Architecture on AWS using Terraform**. It is designed to showcase real-world DevOps and cloud infrastructure skills suitable for **freshers and entry-level roles**.
-
+This project demonstrates how to provision a **3-Tier Architecture on AWS using Terraform**. 
 The architecture follows best practices by separating the **Web, Application, and Database layers** using public and private subnets, security groups, and a NAT Gateway.
 
 ## 🧱 Architecture Components
