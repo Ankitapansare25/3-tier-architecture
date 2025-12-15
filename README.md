@@ -6,13 +6,6 @@ This project demonstrates how to provision a **3-Tier Architecture on AWS using 
 
 The architecture follows best practices by separating the **Web, Application, and Database layers** using public and private subnets, security groups, and a NAT Gateway.
 
----
-
-## 🏗️ Architecture Diagram
-
-![3 Tier Architecture]("img\3-tier archi.png")
----
-
 ## 🧱 Architecture Components
 
 ### 1️⃣ Network Layer
